@@ -11,7 +11,7 @@ The system reduces human effort, improves space utilization, and provides a seam
 
 🧩 Computer Vision Integration: Uses image processing to identify vehicle presence.
 
-🤖 Machine Learning Model: Classifies parking slots as occupied or free.
+🤖 Machine Learning Model: Classifies parking slots as occupied or free. 
 
 📡 Smart Backend: Stores and manages parking data using a robust API.
 
